@@ -75,7 +75,9 @@ export default function Navigation() {
 
           <div className="flex items-center gap-3">
             <a
-              href="/resume"
+              href="/resume.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
               className="hidden md:flex border-2 border-offset-shadow bg-white text-text-primary rounded-lg px-5 py-2 text-14 font-bold min-h-[44px] items-center hover:bg-accent hover:border-accent transition-all duration-200 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent"
             >
               Resume

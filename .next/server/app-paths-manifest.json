@@ -1,5 +1,5 @@
 {
-  "/resume/page": "app/resume/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
   "/page": "app/page.js",
   "/work/codebase-guide/page": "app/work/codebase-guide/page.js",
   "/work/kairos/page": "app/work/kairos/page.js",
