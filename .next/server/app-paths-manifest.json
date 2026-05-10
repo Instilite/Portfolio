@@ -1,0 +1,7 @@
+{
+  "/resume/page": "app/resume/page.js",
+  "/page": "app/page.js",
+  "/work/codebase-guide/page": "app/work/codebase-guide/page.js",
+  "/work/kairos/page": "app/work/kairos/page.js",
+  "/work/scheduling-agent/page": "app/work/scheduling-agent/page.js"
+}

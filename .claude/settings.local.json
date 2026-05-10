@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-next-app@14 . --typescript --tailwind --eslint --app --src-dir=false --import-alias=\"@/*\" --no-git)",
+      "Bash(npx create-next-app@14 portfolio --typescript --tailwind --eslint --app --src-dir=false --import-alias=\"@/*\" --no-git)",
+      "Bash(npx create-next-app@14 . --typescript --tailwind --eslint --app --src-dir=false --import-alias=\"@/*\" --no-git --yes)",
+      "Bash(npm init *)",
+      "Bash(sed -i '' 's/\"Portfolio_Rishaan\"/\"portfolio-rishaan\"/' package.json)",
+      "Bash(npm install *)",
+      "Bash(node_modules/.bin/tailwindcss init *)",
+      "Bash(node_modules/.bin/tsc --init)",
+      "Bash(node_modules/.bin/tailwindcss --version)",
+      "Bash(node_modules/.bin/next build *)",
+      "Bash(npm run *)",
+      "Bash(kill 38877)",
+      "Bash(cat /tmp/next-dev.log)",
+      "Bash(curl -s http://localhost:3002/)",
+      "Bash(kill 39199)",
+      "Bash(pkill -f \"Portfolio_Rishaan.*next dev\")",
+      "Bash(sips -g pixelWidth -g pixelHeight /Users/rishaankumar/Desktop/Portfolio_Rishaan/public/images/Kairos_Land.jpeg)",
+      "Bash(sips -g pixelWidth -g pixelHeight /Users/rishaankumar/Desktop/Portfolio_Rishaan/public/images/Omni_Land.jpeg /Users/rishaankumar/Desktop/Portfolio_Rishaan/public/images/omni2.jpeg /Users/rishaankumar/Desktop/Portfolio_Rishaan/public/images/Omni3.jpeg)"
+    ]
+  }
+}
